@@ -1,4 +1,4 @@
-## Mobile Price Prediction using Machine Learning  
+# Mobile Price Prediction using Machine Learning  
 
 ## Project Overview  
 
@@ -36,22 +36,22 @@ This project aims to predict the price category of mobile phones based on variou
 ├── README.md            # Project documentation
 ```
 
-## ⚙️ Setup & Installation  
+## Setup & Installation  
 
-### 1️⃣ Clone the repository:  
+### 1. Clone the repository:  
 
 ```bash
 git clone https://github.com/yourusername/mobile-price-prediction.git
 cd mobile-price-prediction
 ```
 
-### 2️⃣ Install dependencies:  
+### 2. Install dependencies:  
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Run the application locally:  
+### 3. Run the application locally:  
 
 ```bash
 streamlit run app.py
@@ -65,7 +65,7 @@ streamlit run app.py
 4. **Modify `app.py` to load models from S3.**  
 5. **Run the Streamlit app** on EC2 and map it to a public IP.  
 
-## 🤝 Contributing  
+## Contributing  
 
 Feel free to fork this repo, create a feature branch, and submit a pull request!  
 
